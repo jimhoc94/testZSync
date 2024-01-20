@@ -28,7 +28,9 @@ jobs:
         with:
           node-version: "20.x"
       - name: zSync
-        run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ secrets.MAINFRAME_PASSWORD }}
+        env:
+          MAINFRAME_PASSWORD_A: ${{ secrets.MAINFRAME_PASSWORD }}
+        run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} "$MAINFRAME_PASSWORD_A"
       - name: Detete tools directorie
         run: |
           rm -R tools
