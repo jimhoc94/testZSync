@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Lachlan",
+    "last": "Zhang"
+  },
+  "location": {
+    "street": {
+      "number": 3145,
+      "name": "Henderson Road"
+    },
+    "city": "Auckland",
+    "state": "Auckland",
+    "country": "New Zealand",
+    "postcode": 10255,
+    "coordinates": {
+      "latitude": "51.6791",
+      "longitude": "-87.4280"
+    },
+    "timezone": {
+      "offset": "-10:00",
+      "description": "Hawaii"
+    }
+  },
+  "email": "lachlan.zhang@example.com",
+  "login": {
+    "uuid": "9f155000-13db-49b1-bdf7-6ec51afff327",
+    "username": "whitekoala450",
+    "password": "studio",
+    "salt": "enZTJSgC",
+    "md5": "4047e566407643659a569010556ce85b",
+    "sha1": "2ed6ecc685446ad2fd691b0a695ceaaa817ac451",
+    "sha256": "8a11fb052656e44163af3a0d8c91db457bff9a308712c28c976406b18c7cb9fb"
+  },
+  "dob": {
+    "date": "1996-02-09T18:55:27.054Z",
+    "age": 27
+  },
+  "registered": {
+    "date": "2017-10-28T00:16:59.798Z",
+    "age": 6
+  },
+  "phone": "(069)-992-1432",
+  "cell": "(728)-561-0738",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+  },
+  "nat": "NZ"
+}
