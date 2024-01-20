@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Nenad",
+    "last": "Đokić"
+  },
+  "location": {
+    "street": {
+      "number": 2046,
+      "name": "Dragoljuba Minića"
+    },
+    "city": "Majdanpek",
+    "state": "Raška",
+    "country": "Serbia",
+    "postcode": 23646,
+    "coordinates": {
+      "latitude": "58.5109",
+      "longitude": "-67.9650"
+    },
+    "timezone": {
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
+    }
+  },
+  "email": "nenad.dokic@example.com",
+  "login": {
+    "uuid": "927337b2-2c5f-4557-a163-27290f731738",
+    "username": "happyelephant219",
+    "password": "animated",
+    "salt": "iWx0vwCx",
+    "md5": "1f59ee1e028f055109eb273dd3c79e18",
+    "sha1": "8e7c96165dfba758c6f278a5044f72b6cad82a0f",
+    "sha256": "752e64c49b8d70c69159641b3c845b309f6a7846af40bacd5ab271362a6eaa87"
+  },
+  "dob": {
+    "date": "1972-05-26T20:27:04.924Z",
+    "age": 51
+  },
+  "registered": {
+    "date": "2004-11-07T14:44:44.658Z",
+    "age": 19
+  },
+  "phone": "019-4214-258",
+  "cell": "067-4117-469",
+  "id": {
+    "name": "SID",
+    "value": "846833955"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+  },
+  "nat": "RS"
+}
