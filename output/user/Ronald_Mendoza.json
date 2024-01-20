@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Ronald",
+    "last": "Mendoza"
+  },
+  "location": {
+    "street": {
+      "number": 7422,
+      "name": "E Little York Rd"
+    },
+    "city": "Mackay",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 9950,
+    "coordinates": {
+      "latitude": "-81.9753",
+      "longitude": "-106.4409"
+    },
+    "timezone": {
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
+    }
+  },
+  "email": "ronald.mendoza@example.com",
+  "login": {
+    "uuid": "d93b38c0-a290-496d-a7fd-fee48df4af6c",
+    "username": "yellowsnake972",
+    "password": "hjkl",
+    "salt": "PjJbJyZz",
+    "md5": "7fdf24aa215876c81911d9d39eef0d1d",
+    "sha1": "e87025e882a8fb7d01ed8b57de17749d9a692d16",
+    "sha256": "26121970e607a30d652cbdfb5c35cd16ce5e4a2b02817041276df8a2b9d40b9f"
+  },
+  "dob": {
+    "date": "1996-01-24T20:17:34.234Z",
+    "age": 27
+  },
+  "registered": {
+    "date": "2020-06-16T21:17:18.859Z",
+    "age": 3
+  },
+  "phone": "05-8926-9480",
+  "cell": "0408-519-236",
+  "id": {
+    "name": "TFN",
+    "value": "979712517"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+  },
+  "nat": "AU"
+}
