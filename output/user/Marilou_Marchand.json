@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Marilou",
+    "last": "Marchand"
+  },
+  "location": {
+    "street": {
+      "number": 4522,
+      "name": "Boulevard de Balmont"
+    },
+    "city": "Fort-de-France",
+    "state": "Var",
+    "country": "France",
+    "postcode": 60431,
+    "coordinates": {
+      "latitude": "-15.9687",
+      "longitude": "162.9533"
+    },
+    "timezone": {
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
+    }
+  },
+  "email": "marilou.marchand@example.com",
+  "login": {
+    "uuid": "b9dc725e-8174-42e2-8bb5-f20d4d333c3c",
+    "username": "goldenzebra262",
+    "password": "qwert40",
+    "salt": "eDrk5iIT",
+    "md5": "3c4cb7fd04a8789656e8826ef1cf8fa5",
+    "sha1": "5f953590adab2c01b68964e26ab2f03d0e841237",
+    "sha256": "d4772f071ca09c96ffc04af3263e9d7905992ab37e199dc2b095e87adfe24768"
+  },
+  "dob": {
+    "date": "1945-05-12T04:41:40.436Z",
+    "age": 78
+  },
+  "registered": {
+    "date": "2018-08-18T08:10:25.994Z",
+    "age": 5
+  },
+  "phone": "05-22-27-27-18",
+  "cell": "06-11-22-46-99",
+  "id": {
+    "name": "INSEE",
+    "value": "2450431032082 51"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+  },
+  "nat": "FR"
+}
