@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Angelina",
+    "last": "Rinden"
+  },
+  "location": {
+    "street": {
+      "number": 9604,
+      "name": "Sørengkaia"
+    },
+    "city": "Bjerkvik",
+    "state": "Nord-Trøndelag",
+    "country": "Norway",
+    "postcode": "8483",
+    "coordinates": {
+      "latitude": "41.4224",
+      "longitude": "71.4568"
+    },
+    "timezone": {
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+    }
+  },
+  "email": "angelina.rinden@example.com",
+  "login": {
+    "uuid": "1afafd07-daa3-49e9-80c4-a06542b5d6d2",
+    "username": "goldenostrich144",
+    "password": "serena",
+    "salt": "PPmL5Ira",
+    "md5": "6076e014e961565da7e44d0994cdf9e3",
+    "sha1": "0f206fbe73934c1d16598eeef839a7e17d2dc17c",
+    "sha256": "1a1aad622c9afce1a6a9dff9cf1ea8390fa51ad4ee318303f12c5daab90741d3"
+  },
+  "dob": {
+    "date": "1966-11-26T07:49:10.748Z",
+    "age": 57
+  },
+  "registered": {
+    "date": "2008-07-22T01:15:20.090Z",
+    "age": 15
+  },
+  "phone": "37384815",
+  "cell": "49829206",
+  "id": {
+    "name": "FN",
+    "value": "26116628472"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+  },
+  "nat": "NO"
+}
