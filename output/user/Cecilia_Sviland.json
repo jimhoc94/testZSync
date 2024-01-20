@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Cecilia",
+    "last": "Sviland"
+  },
+  "location": {
+    "street": {
+      "number": 6855,
+      "name": "Ullevålseterveien"
+    },
+    "city": "Ottersøy",
+    "state": "Oslo",
+    "country": "Norway",
+    "postcode": "7358",
+    "coordinates": {
+      "latitude": "39.3234",
+      "longitude": "78.6498"
+    },
+    "timezone": {
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+    }
+  },
+  "email": "cecilia.sviland@example.com",
+  "login": {
+    "uuid": "2dfbae99-8470-4a64-a0f9-511a5e05c118",
+    "username": "purplefrog172",
+    "password": "yyyyyyy",
+    "salt": "pEaNAtja",
+    "md5": "df45731b04031ab20f4f8674d6c9432e",
+    "sha1": "8161c01cb711a53a66111dfcb80b7c7090b732e4",
+    "sha256": "695faf110b3499c4efc3727081688457b5ac51783332b2503d1b28f182fdcdbc"
+  },
+  "dob": {
+    "date": "1951-04-30T20:45:19.129Z",
+    "age": 72
+  },
+  "registered": {
+    "date": "2015-04-15T08:13:30.613Z",
+    "age": 8
+  },
+  "phone": "80370051",
+  "cell": "43221332",
+  "id": {
+    "name": "FN",
+    "value": "30045129221"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+  },
+  "nat": "NO"
+}
