@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Victoria",
+    "last": "Carroll"
+  },
+  "location": {
+    "street": {
+      "number": 230,
+      "name": "The Crescent"
+    },
+    "city": "Salisbury",
+    "state": "West Sussex",
+    "country": "United Kingdom",
+    "postcode": "YN3 1LE",
+    "coordinates": {
+      "latitude": "-10.1123",
+      "longitude": "75.9362"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "victoria.carroll@example.com",
+  "login": {
+    "uuid": "f29b0dbf-d4b2-41bf-a093-93148995236c",
+    "username": "brownlion304",
+    "password": "morales",
+    "salt": "sQifS7ld",
+    "md5": "8dbbe1685aaf47de23ee7ca150d33f1a",
+    "sha1": "36cac6863bb8d55b9c4bc1a1c985351428540282",
+    "sha256": "89e52283c366dd3902596d55c61d503a54891719046fd14db74c305d19135c2d"
+  },
+  "dob": {
+    "date": "1948-12-07T19:02:13.966Z",
+    "age": 75
+  },
+  "registered": {
+    "date": "2007-04-19T10:04:26.729Z",
+    "age": 16
+  },
+  "phone": "01474 253146",
+  "cell": "07380 582737",
+  "id": {
+    "name": "NINO",
+    "value": "NN 17 46 24 V"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+  },
+  "nat": "GB"
+}
