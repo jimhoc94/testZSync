@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Lily",
+    "last": "Nguyen"
+  },
+  "location": {
+    "street": {
+      "number": 1256,
+      "name": "Lovers Ln"
+    },
+    "city": "Surrey",
+    "state": "Nevada",
+    "country": "United States",
+    "postcode": 13871,
+    "coordinates": {
+      "latitude": "88.8696",
+      "longitude": "24.1146"
+    },
+    "timezone": {
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+    }
+  },
+  "email": "lily.nguyen@example.com",
+  "login": {
+    "uuid": "9a8b27e8-069d-4f6d-b609-5808feaf128f",
+    "username": "organicgoose594",
+    "password": "333333",
+    "salt": "yM17AZTz",
+    "md5": "055d0e42098cc8bdb8aae0c4b5dc6952",
+    "sha1": "ee2603517f1a5721c1ea8755479f02f9965292e6",
+    "sha256": "43ad8df6b00ece74b8d582b4dff832cb0aecfd33356b194b8893d804d9403a76"
+  },
+  "dob": {
+    "date": "1944-09-07T03:24:34.644Z",
+    "age": 79
+  },
+  "registered": {
+    "date": "2012-08-09T23:06:17.803Z",
+    "age": 11
+  },
+  "phone": "(969) 215-9777",
+  "cell": "(916) 463-8894",
+  "id": {
+    "name": "SSN",
+    "value": "138-40-1989"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+  },
+  "nat": "US"
+}

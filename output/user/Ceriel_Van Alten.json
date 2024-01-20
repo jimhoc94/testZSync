@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Ceriel",
+    "last": "Van Alten"
+  },
+  "location": {
+    "street": {
+      "number": 7735,
+      "name": "Duinkerkerweg"
+    },
+    "city": "Noord-Sleen",
+    "state": "Groningen",
+    "country": "Netherlands",
+    "postcode": "5478 XE",
+    "coordinates": {
+      "latitude": "31.4699",
+      "longitude": "-140.3727"
+    },
+    "timezone": {
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
+    }
+  },
+  "email": "ceriel.vanalten@example.com",
+  "login": {
+    "uuid": "2b0c7956-4998-40d6-8a83-4415fa38e47f",
+    "username": "lazyelephant332",
+    "password": "panasoni",
+    "salt": "qMJFb2zG",
+    "md5": "5023789433c708a990157b0c789bdf2f",
+    "sha1": "b30ddbc703c397f4108b0a200a121e557b81cc14",
+    "sha256": "e73376deba5dc9c2a2ba4298de6ffae3becb3d112b24d71c80dddd7ddf7eea96"
+  },
+  "dob": {
+    "date": "1960-07-31T23:07:49.077Z",
+    "age": 63
+  },
+  "registered": {
+    "date": "2004-06-05T13:22:14.554Z",
+    "age": 19
+  },
+  "phone": "(0378) 338297",
+  "cell": "(06) 80608113",
+  "id": {
+    "name": "BSN",
+    "value": "94421234"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+  },
+  "nat": "NL"
+}

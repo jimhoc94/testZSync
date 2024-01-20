@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Judith",
+    "last": "Moore"
+  },
+  "location": {
+    "street": {
+      "number": 6523,
+      "name": "Church Lane"
+    },
+    "city": "Kilcoole",
+    "state": "Kildare",
+    "country": "Ireland",
+    "postcode": 95010,
+    "coordinates": {
+      "latitude": "-0.2288",
+      "longitude": "0.9878"
+    },
+    "timezone": {
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
+    }
+  },
+  "email": "judith.moore@example.com",
+  "login": {
+    "uuid": "7a06a176-ff5b-4b22-8b74-6affdb73209b",
+    "username": "browngoose695",
+    "password": "honolulu",
+    "salt": "9xRSkiaR",
+    "md5": "fcace3ed50f29ac5c337b25f3923dbde",
+    "sha1": "b3340f94f232bd266fe052039e24a01127b6bc6b",
+    "sha256": "758bcd9443b7ded569822d777c2f064ea2c9e2804f9918f8ea75fc5c719e093c"
+  },
+  "dob": {
+    "date": "2000-04-02T01:46:04.074Z",
+    "age": 23
+  },
+  "registered": {
+    "date": "2022-02-27T20:46:32.324Z",
+    "age": 1
+  },
+  "phone": "061-411-0576",
+  "cell": "081-757-0585",
+  "id": {
+    "name": "PPS",
+    "value": "7896259T"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+  },
+  "nat": "IE"
+}
