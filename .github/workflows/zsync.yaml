@@ -7,7 +7,12 @@ on:
       number_API_calls:
         description: "number of API calls"
         required: true
-        default: "1"
+        type: number
+        default: 1
+      password:
+        description: "mainframe password"
+        required: true
+        type: string
 
 jobs:
   Sync:
@@ -26,7 +31,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20.x"
-      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }}
+      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ github.event.inputs.password }}
       - run: rm -R tools
       - run: tree .
       - name: Commit
