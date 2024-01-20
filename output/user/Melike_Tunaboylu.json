@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Melike",
+    "last": "Tunaboylu"
+  },
+  "location": {
+    "street": {
+      "number": 8042,
+      "name": "Abanoz Sk"
+    },
+    "city": "Samsun",
+    "state": "Van",
+    "country": "Turkey",
+    "postcode": 64646,
+    "coordinates": {
+      "latitude": "66.2897",
+      "longitude": "7.2610"
+    },
+    "timezone": {
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
+    }
+  },
+  "email": "melike.tunaboylu@example.com",
+  "login": {
+    "uuid": "bc08c6ac-9d17-460b-8da5-5e4bc4b938e8",
+    "username": "goldengoose892",
+    "password": "ncc1701",
+    "salt": "ZfCAbRs2",
+    "md5": "24bffe3b90697e4fb5cfcdabaf58064d",
+    "sha1": "237a8490f5902a25912278a645b861d53f6bfe66",
+    "sha256": "d5082405e85069ade190f65214cef6e901e29aa27a66bc99e144891184c6bf6c"
+  },
+  "dob": {
+    "date": "1961-11-17T16:45:25.870Z",
+    "age": 62
+  },
+  "registered": {
+    "date": "2016-02-09T00:36:00.278Z",
+    "age": 7
+  },
+  "phone": "(276)-259-5771",
+  "cell": "(469)-049-2293",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+  },
+  "nat": "TR"
+}
