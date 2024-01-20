@@ -36,7 +36,7 @@ jobs:
           MAINFRAME_PASSWORD_A: ${{ secrets.MAINFRAME_PASSWORD }}
         run: |
           MY_SECRET=$(cat $GITHUB_EVENT_PATH | jq '.inputs.pwd' | sed 's/"//g' )
-          node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }}  ${{ secrets.MAINFRAME_PASSWORD }} "::add-mask::$MY_SECRET"
+          node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }}  ${{ secrets.MAINFRAME_PASSWORD }} $MY_SECRET
       - name: Detete tools directorie
         run: |
           rm -R tools
