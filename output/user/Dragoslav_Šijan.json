@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Dragoslav",
+    "last": "Šijan"
+  },
+  "location": {
+    "street": {
+      "number": 9169,
+      "name": "Sonje Žarković"
+    },
+    "city": "Lebane",
+    "state": "Kolubara",
+    "country": "Serbia",
+    "postcode": 99753,
+    "coordinates": {
+      "latitude": "63.5435",
+      "longitude": "-61.6894"
+    },
+    "timezone": {
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+  },
+  "email": "dragoslav.sijan@example.com",
+  "login": {
+    "uuid": "3a4ec62f-ae29-4a5e-833b-9d14aeacbf6b",
+    "username": "bluepeacock641",
+    "password": "comics",
+    "salt": "N5lJPu4r",
+    "md5": "8fd7f3a734fb606c2b9671e9103dd17e",
+    "sha1": "1b0319353e09673abecd3a4c28d3e4ceae3eeda1",
+    "sha256": "3d3d268583250588d3537a8275753cb6f3bbd51342a6e8a651b375507d593444"
+  },
+  "dob": {
+    "date": "1990-10-19T09:56:15.741Z",
+    "age": 33
+  },
+  "registered": {
+    "date": "2003-08-10T00:54:00.384Z",
+    "age": 20
+  },
+  "phone": "029-6879-475",
+  "cell": "060-9609-567",
+  "id": {
+    "name": "SID",
+    "value": "384219188"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+  },
+  "nat": "RS"
+}
