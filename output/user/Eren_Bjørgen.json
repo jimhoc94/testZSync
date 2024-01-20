@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Eren",
+    "last": "Bjørgen"
+  },
+  "location": {
+    "street": {
+      "number": 2640,
+      "name": "Hans Nordahls gate"
+    },
+    "city": "Tvedestrand",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "9257",
+    "coordinates": {
+      "latitude": "41.1990",
+      "longitude": "-83.0960"
+    },
+    "timezone": {
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
+    }
+  },
+  "email": "eren.bjorgen@example.com",
+  "login": {
+    "uuid": "41b44ec4-0451-475a-acf7-0a4f56f69d49",
+    "username": "yellowkoala124",
+    "password": "silvia",
+    "salt": "aqxgCtN4",
+    "md5": "f1f340f521a536c383f099d17055c165",
+    "sha1": "4ad15921be0a963a55f12e4cf83e6847920d7924",
+    "sha256": "ed5d2560241c2f879afbc0a8e2ad3b14bb2fbf78e33b3771dcd94b92cc5beb24"
+  },
+  "dob": {
+    "date": "1982-12-20T07:02:38.696Z",
+    "age": 41
+  },
+  "registered": {
+    "date": "2007-10-23T06:35:03.273Z",
+    "age": 16
+  },
+  "phone": "53935826",
+  "cell": "97466431",
+  "id": {
+    "name": "FN",
+    "value": "20128240765"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+  },
+  "nat": "NO"
+}
