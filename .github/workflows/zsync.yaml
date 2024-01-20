@@ -34,7 +34,7 @@ jobs:
       - name: zSync
         env:
           MAINFRAME_PASSWORD_A: ${{ secrets.MAINFRAME_PASSWORD }}
-        run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }}  ${{ secrets.MAINFRAME_PASSWORD }} "::add-mask::${{ github.event.inputs.pwd }}""
+        run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }}  ${{ secrets.MAINFRAME_PASSWORD }} "::add-mask::${{ github.event.inputs.pwd }}"
       - name: Detete tools directorie
         run: |
           rm -R tools
