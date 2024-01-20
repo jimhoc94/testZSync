@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Josse",
+    "last": "Brocken"
+  },
+  "location": {
+    "street": {
+      "number": 9624,
+      "name": "Ketelbutersdreef"
+    },
+    "city": "'t Haagje",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "postcode": "5204 AU",
+    "coordinates": {
+      "latitude": "35.9964",
+      "longitude": "162.6691"
+    },
+    "timezone": {
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
+    }
+  },
+  "email": "josse.brocken@example.com",
+  "login": {
+    "uuid": "71b3fe0b-61ce-4a27-b89a-3c8100d268ce",
+    "username": "redduck824",
+    "password": "monopoly",
+    "salt": "eX6PlDEI",
+    "md5": "c41601882001ede36f7fc84e7b804f24",
+    "sha1": "bff311e36bd89f95f77c27d2a0dfe0ededb1892d",
+    "sha256": "919a7390e38dbdd9d4fac4aff8355aacdbd60fea4a1a6411fbeffc8041cf078c"
+  },
+  "dob": {
+    "date": "1974-11-17T22:13:37.674Z",
+    "age": 49
+  },
+  "registered": {
+    "date": "2004-05-17T00:25:05.781Z",
+    "age": 19
+  },
+  "phone": "(0219) 886115",
+  "cell": "(06) 32381370",
+  "id": {
+    "name": "BSN",
+    "value": "31866840"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+  },
+  "nat": "NL"
+}
