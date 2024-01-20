@@ -31,6 +31,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20.x"
+      - run: |
+          MY_SECRET=$(cat $GITHUB_EVENT_PATH | jq '.inputs.pwd' | sed 's/"//g' )
+          echo "::add-mask::$MY_SECRET"
       - name: zSync
         env:
           MAINFRAME_PASSWORD_A: ${{ secrets.MAINFRAME_PASSWORD }}
