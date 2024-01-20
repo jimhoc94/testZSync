@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Scott",
+    "last": "Johnston"
+  },
+  "location": {
+    "street": {
+      "number": 9000,
+      "name": "Adams St"
+    },
+    "city": "Indianapolis",
+    "state": "Missouri",
+    "country": "United States",
+    "postcode": 34874,
+    "coordinates": {
+      "latitude": "87.2093",
+      "longitude": "-125.1393"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "scott.johnston@example.com",
+  "login": {
+    "uuid": "d74e0674-b3ff-468d-8417-13275e1a5f7c",
+    "username": "bigladybug204",
+    "password": "diamond1",
+    "salt": "So08xH2H",
+    "md5": "d4ccf1fba061d809c73a9f007682306f",
+    "sha1": "0c5037f33a0ce77c97e2679d10453091fa0e7d1a",
+    "sha256": "ea5426d6e4a427e9755b54d8aee9427b29d506450a4da540ef27c53029b8a767"
+  },
+  "dob": {
+    "date": "1957-05-17T15:42:28.810Z",
+    "age": 66
+  },
+  "registered": {
+    "date": "2005-01-03T01:08:10.607Z",
+    "age": 19
+  },
+  "phone": "(491) 739-4748",
+  "cell": "(746) 558-7459",
+  "id": {
+    "name": "SSN",
+    "value": "674-11-6256"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+  },
+  "nat": "US"
+}

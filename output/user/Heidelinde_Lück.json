@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Heidelinde",
+    "last": "Lück"
+  },
+  "location": {
+    "street": {
+      "number": 2897,
+      "name": "Burgstraße"
+    },
+    "city": "Nebra (Unstrut)",
+    "state": "Brandenburg",
+    "country": "Germany",
+    "postcode": 80022,
+    "coordinates": {
+      "latitude": "-54.4142",
+      "longitude": "86.6404"
+    },
+    "timezone": {
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
+    }
+  },
+  "email": "heidelinde.luck@example.com",
+  "login": {
+    "uuid": "68cc4393-c94f-4ec1-9024-0575c7cd8454",
+    "username": "crazybear404",
+    "password": "browning",
+    "salt": "Jq74WfZa",
+    "md5": "7060aaac374560736d408425d56cbf9c",
+    "sha1": "3e720647400fe043aba7e4e79f33258894a70f08",
+    "sha256": "f829898f665ad76fe9bd6b6af20c6bbf1e04ab7975d17a460117a735f711da5e"
+  },
+  "dob": {
+    "date": "1969-10-25T08:45:13.899Z",
+    "age": 54
+  },
+  "registered": {
+    "date": "2008-12-29T23:48:28.549Z",
+    "age": 15
+  },
+  "phone": "0478-5232539",
+  "cell": "0177-2447890",
+  "id": {
+    "name": "SVNR",
+    "value": "38 251069 L 831"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+  },
+  "nat": "DE"
+}

@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Vedat",
+    "last": "Aybar"
+  },
+  "location": {
+    "street": {
+      "number": 9887,
+      "name": "Kushimoto Sk"
+    },
+    "city": "Van",
+    "state": "Hakkâri",
+    "country": "Turkey",
+    "postcode": 13056,
+    "coordinates": {
+      "latitude": "67.8202",
+      "longitude": "-80.9265"
+    },
+    "timezone": {
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+  },
+  "email": "vedat.aybar@example.com",
+  "login": {
+    "uuid": "f23f3c50-a96b-4bdf-bf7c-abe2dc6821af",
+    "username": "lazyrabbit697",
+    "password": "zxc123",
+    "salt": "NJASR28B",
+    "md5": "7d014a94ff70972965dbdf11f73f7305",
+    "sha1": "7001cdd452ffcd22c8d32a7487252e73a249b67e",
+    "sha256": "b5e40f492729c131349fc4dabf75fe34d18171d2209adc7b525b3f3c9ead0cb1"
+  },
+  "dob": {
+    "date": "1983-11-13T22:24:41.954Z",
+    "age": 40
+  },
+  "registered": {
+    "date": "2021-02-07T06:29:32.387Z",
+    "age": 2
+  },
+  "phone": "(874)-510-6988",
+  "cell": "(364)-314-3539",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  },
+  "nat": "TR"
+}
