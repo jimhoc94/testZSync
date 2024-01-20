@@ -19,12 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Repo Sync
     steps:
-      - name: Mask Password
-        id: mask-pass
-        run: |
-          local_secret="${{ inputs.password }}"
-          echo "::add-mask::$local_secret"
-          echo "::set-output name=secret-password::$local_secret"
       - name: Checkout
         uses: actions/checkout@v4
       - name: Checkout tools repo
@@ -37,7 +31,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20.x"
-      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ steps.mask-pass.outputs.secret-password }}
+      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ ::add-mask::github.event.inputs.password }}
       - run: rm -R tools
       - run: tree .
       - name: Commit
