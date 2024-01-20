@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jimhoc94/zsync
-          ref: "develop"
+          ref: "main"
           path: tools/zsync
       - name: Install Node.js
         uses: actions/setup-node@v3
