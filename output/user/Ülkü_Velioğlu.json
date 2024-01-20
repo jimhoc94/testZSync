@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Ülkü",
+    "last": "Velioğlu"
+  },
+  "location": {
+    "street": {
+      "number": 1616,
+      "name": "Atatürk Sk"
+    },
+    "city": "Artvin",
+    "state": "Gümüşhane",
+    "country": "Turkey",
+    "postcode": 82247,
+    "coordinates": {
+      "latitude": "65.0430",
+      "longitude": "40.0824"
+    },
+    "timezone": {
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
+    }
+  },
+  "email": "ulku.velioglu@example.com",
+  "login": {
+    "uuid": "ddbf2015-ce62-4232-a112-8478ff14a85f",
+    "username": "blacklion342",
+    "password": "admin",
+    "salt": "3zklol5h",
+    "md5": "44d74917491245f496c449de2c57c31d",
+    "sha1": "450af1a08639349afa368a5bd84bc89562be30f1",
+    "sha256": "15fc7103b4bffa7bc338949c3e6213ea9563101a41f6fca445e64e8a2d67762f"
+  },
+  "dob": {
+    "date": "1973-01-05T22:21:11.186Z",
+    "age": 51
+  },
+  "registered": {
+    "date": "2012-06-08T13:17:58.520Z",
+    "age": 11
+  },
+  "phone": "(903)-653-9824",
+  "cell": "(763)-874-4913",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+  },
+  "nat": "TR"
+}
