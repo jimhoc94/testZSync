@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Evelásio",
+    "last": "Ferreira"
+  },
+  "location": {
+    "street": {
+      "number": 9089,
+      "name": "Rua São José "
+    },
+    "city": "Itaguaí",
+    "state": "Alagoas",
+    "country": "Brazil",
+    "postcode": 79192,
+    "coordinates": {
+      "latitude": "-78.6924",
+      "longitude": "-168.9417"
+    },
+    "timezone": {
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
+    }
+  },
+  "email": "evelasio.ferreira@example.com",
+  "login": {
+    "uuid": "57dec60c-9239-4992-85b9-0b0ad1f0fda0",
+    "username": "redmeercat152",
+    "password": "frontier",
+    "salt": "KhpMLLkV",
+    "md5": "45875f7ab45e837a41ce43af95a74d97",
+    "sha1": "d9a89580a73c1444e9f5ed8148c0eb8bc674ca90",
+    "sha256": "0b8f331b48ff7057fc89e5239ef48b86d365cf5381a79bbe651589045a938b86"
+  },
+  "dob": {
+    "date": "1985-12-07T22:27:37.795Z",
+    "age": 38
+  },
+  "registered": {
+    "date": "2002-06-19T07:13:31.029Z",
+    "age": 21
+  },
+  "phone": "(80) 9098-6024",
+  "cell": "(32) 6901-4759",
+  "id": {
+    "name": "CPF",
+    "value": "275.566.795-02"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+  },
+  "nat": "BR"
+}
