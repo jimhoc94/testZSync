@@ -19,6 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Repo Sync
     steps:
+      - name: Mask Password
+        run: |
+        API_PASSWORD=$(jq -r '.inputs.password' $GITHUB_EVENT_PATH)
+        echo ::add-mask::$API_PASSWORD
+        echo API_PASSWORD=$API_PASSWORD >> $GITHUB_ENV    
       - name: Checkout
         uses: actions/checkout@v4
       - name: Checkout tools repo
@@ -31,7 +36,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20.x"
-      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ github.event.inputs.password }}
+      - run: node ./tools/zsync/dist/index.js ${{ github.event.inputs.number_API_calls }} ${{ env.API_PASSWORD }}
       - run: rm -R tools
       - run: tree .
       - name: Commit
