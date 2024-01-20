@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Siham",
+    "last": "Størseth"
+  },
+  "location": {
+    "street": {
+      "number": 1115,
+      "name": "Munthes gate"
+    },
+    "city": "Østenstad",
+    "state": "Hedmark",
+    "country": "Norway",
+    "postcode": "5263",
+    "coordinates": {
+      "latitude": "41.7068",
+      "longitude": "5.3549"
+    },
+    "timezone": {
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
+    }
+  },
+  "email": "siham.storseth@example.com",
+  "login": {
+    "uuid": "ddc019f4-407b-4425-92ba-2d9d8b567bd8",
+    "username": "reddog839",
+    "password": "reaper",
+    "salt": "cCSslx2j",
+    "md5": "9b497558d53043fcd91626d61b0ac093",
+    "sha1": "7611054391a176b06648fb277ffee8e9f01eebed",
+    "sha256": "8d12715e17815c708e8779d579f7fba1385761cfc885ce64eb703420715ec741"
+  },
+  "dob": {
+    "date": "1977-01-06T09:25:25.450Z",
+    "age": 47
+  },
+  "registered": {
+    "date": "2019-03-26T07:47:11.120Z",
+    "age": 4
+  },
+  "phone": "73447853",
+  "cell": "97429993",
+  "id": {
+    "name": "FN",
+    "value": "06017707289"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+  },
+  "nat": "NO"
+}

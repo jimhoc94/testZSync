@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Armando",
+    "last": "Porter"
+  },
+  "location": {
+    "street": {
+      "number": 9117,
+      "name": "Taylor St"
+    },
+    "city": "Townsville",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 8543,
+    "coordinates": {
+      "latitude": "-81.8903",
+      "longitude": "-166.6410"
+    },
+    "timezone": {
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
+    }
+  },
+  "email": "armando.porter@example.com",
+  "login": {
+    "uuid": "0b0ecd9c-f9e9-41f4-a4b4-8704b5cbc9f9",
+    "username": "sadelephant568",
+    "password": "devil666",
+    "salt": "7M5Me9rz",
+    "md5": "35553ec33c7d8df8624f14c5d6175121",
+    "sha1": "809fd7e5bd90934585c001a7aeab1b72b0f2cfe0",
+    "sha256": "66f91d05b33f117d5ee273e9de46f9533015dffb76606e7986cfe2c014ab40c4"
+  },
+  "dob": {
+    "date": "1972-04-07T22:04:23.133Z",
+    "age": 51
+  },
+  "registered": {
+    "date": "2002-09-08T04:32:21.491Z",
+    "age": 21
+  },
+  "phone": "07-3777-5957",
+  "cell": "0471-469-743",
+  "id": {
+    "name": "TFN",
+    "value": "321995390"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+  },
+  "nat": "AU"
+}
