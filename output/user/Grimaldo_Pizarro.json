@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Grimaldo",
+    "last": "Pizarro"
+  },
+  "location": {
+    "street": {
+      "number": 5061,
+      "name": "Prolongación Sonora"
+    },
+    "city": "La Venta (Cacaloxuchitl)",
+    "state": "Hidalgo",
+    "country": "Mexico",
+    "postcode": 60045,
+    "coordinates": {
+      "latitude": "29.0096",
+      "longitude": "-172.6194"
+    },
+    "timezone": {
+      "offset": "-3:30",
+      "description": "Newfoundland"
+    }
+  },
+  "email": "grimaldo.pizarro@example.com",
+  "login": {
+    "uuid": "6b58e668-0883-487f-af86-33746c7a90d8",
+    "username": "lazygorilla315",
+    "password": "woohoo",
+    "salt": "bIHmHE8O",
+    "md5": "8374ed8e0f323b6fc4d4cac6b762de27",
+    "sha1": "74daae727d35037e252aeec7f4900b4f2851ad1d",
+    "sha256": "da5058359823850d00d064b7b7f6b19f637f399a338134f28bb5d803b99947b1"
+  },
+  "dob": {
+    "date": "1955-12-07T07:12:59.409Z",
+    "age": 68
+  },
+  "registered": {
+    "date": "2011-05-03T10:16:49.082Z",
+    "age": 12
+  },
+  "phone": "(647) 465 0857",
+  "cell": "(663) 291 5271",
+  "id": {
+    "name": "NSS",
+    "value": "85 19 74 1555 4"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+  },
+  "nat": "MX"
+}
