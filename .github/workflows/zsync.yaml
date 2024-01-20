@@ -9,10 +9,6 @@ on:
         required: true
         type: number
         default: 1
-      password:
-        description: "mainframe password"
-        required: true
-        type: environment
 
 jobs:
   Sync:
