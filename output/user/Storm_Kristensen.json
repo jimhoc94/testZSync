@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Storm",
+    "last": "Kristensen"
+  },
+  "location": {
+    "street": {
+      "number": 5598,
+      "name": "Askevej"
+    },
+    "city": "Overby Lyng",
+    "state": "Syddanmark",
+    "country": "Denmark",
+    "postcode": 91713,
+    "coordinates": {
+      "latitude": "-45.9087",
+      "longitude": "-30.0405"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "storm.kristensen@example.com",
+  "login": {
+    "uuid": "e6c809ee-b602-477e-8f5d-71495301bb11",
+    "username": "goldensnake502",
+    "password": "wasser",
+    "salt": "SybjBD4a",
+    "md5": "e43830aef9a8f7f3ef4ff8ab3c4e024b",
+    "sha1": "5cfd770ad63b7a5850eaeadb1b7d5eea7275f5aa",
+    "sha256": "dd715b50531b1a6d7552c84dfc3fe95317fa4d0268c090f062194fa5841a5a14"
+  },
+  "dob": {
+    "date": "1949-04-03T21:04:25.827Z",
+    "age": 74
+  },
+  "registered": {
+    "date": "2007-07-18T01:58:23.847Z",
+    "age": 16
+  },
+  "phone": "31007710",
+  "cell": "53673809",
+  "id": {
+    "name": "CPR",
+    "value": "030449-4258"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+  },
+  "nat": "DK"
+}
