@@ -16,10 +16,8 @@ jobs:
         with:
           repository: jimhoc94/zsync
           path: tools
-      - name: Commit
-        run: |
-          git config --global user.name 'jimhoc94'
-          git config --global user.email 'jimhoc94@users.noreply.github.com'
-          git add -A
-          git commit -am "Automated report"
-          git push
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+      - run: node ./tools/zsync/dist/index.js
