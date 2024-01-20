@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Tania",
+    "last": "Centeno"
+  },
+  "location": {
+    "street": {
+      "number": 840,
+      "name": "Viaducto Ucrania"
+    },
+    "city": "Nazas",
+    "state": "Baja California Sur",
+    "country": "Mexico",
+    "postcode": 96391,
+    "coordinates": {
+      "latitude": "28.2100",
+      "longitude": "64.5112"
+    },
+    "timezone": {
+      "offset": "-9:00",
+      "description": "Alaska"
+    }
+  },
+  "email": "tania.centeno@example.com",
+  "login": {
+    "uuid": "e3021f81-f7fe-488e-b3e0-77fd8b9160db",
+    "username": "angryladybug515",
+    "password": "ursitesux",
+    "salt": "B06II4Bm",
+    "md5": "1967bd115dbe2d01772c81632ca72b8d",
+    "sha1": "cce3aad9d79a5c3f58e39ced06b5d802f5203e65",
+    "sha256": "1d1bf447b73263244c9093f46a4ca9135d10d3134f940a0dd43479d21174ec98"
+  },
+  "dob": {
+    "date": "1999-04-01T19:32:46.488Z",
+    "age": 24
+  },
+  "registered": {
+    "date": "2019-04-09T21:57:07.954Z",
+    "age": 4
+  },
+  "phone": "(675) 040 8776",
+  "cell": "(649) 589 3170",
+  "id": {
+    "name": "NSS",
+    "value": "03 61 71 6097 6"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+  },
+  "nat": "MX"
+}
