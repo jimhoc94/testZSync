@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Maxine",
+    "last": "Chavez"
+  },
+  "location": {
+    "street": {
+      "number": 1916,
+      "name": "Hickory Creek Dr"
+    },
+    "city": "Nowra",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 7705,
+    "coordinates": {
+      "latitude": "-88.9997",
+      "longitude": "170.1828"
+    },
+    "timezone": {
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
+    }
+  },
+  "email": "maxine.chavez@example.com",
+  "login": {
+    "uuid": "a24335ac-81f4-42c4-84d4-64e3c8fb6dde",
+    "username": "crazygoose348",
+    "password": "stephani",
+    "salt": "f7qkVtps",
+    "md5": "27f6bf3c5e7a886a539e83b665ef819d",
+    "sha1": "dac5bd2a115ed94914689c4107447c8201dcfedb",
+    "sha256": "7c4870003748e3aea375680ecde2a80ad3cb0bc5c7bc1c34ed2ddea33e35bd9c"
+  },
+  "dob": {
+    "date": "1997-07-28T20:19:52.915Z",
+    "age": 26
+  },
+  "registered": {
+    "date": "2006-01-07T13:35:12.390Z",
+    "age": 18
+  },
+  "phone": "05-9738-8981",
+  "cell": "0474-952-102",
+  "id": {
+    "name": "TFN",
+    "value": "981645438"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+  },
+  "nat": "AU"
+}
