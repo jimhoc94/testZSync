@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Yavir",
+    "last": "Macko"
+  },
+  "location": {
+    "street": {
+      "number": 2496,
+      "name": "Kaspiyska"
+    },
+    "city": "Druzhkivka",
+    "state": "Mikolayivska",
+    "country": "Ukraine",
+    "postcode": 57615,
+    "coordinates": {
+      "latitude": "74.7393",
+      "longitude": "-98.4829"
+    },
+    "timezone": {
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
+    }
+  },
+  "email": "yavir.macko@example.com",
+  "login": {
+    "uuid": "f9d36498-0ae3-42fb-8274-00afc93ee796",
+    "username": "heavyfish112",
+    "password": "bluebird",
+    "salt": "dP5nh9UW",
+    "md5": "4544d69ccb59cd737f2bd19b6bb71b2e",
+    "sha1": "9f8f71a390bac2d430e295638bed586187629981",
+    "sha256": "47ed02050725327757acd6887ca2c6247f7ea69c6a4c6f0c48a3af832d3ff185"
+  },
+  "dob": {
+    "date": "1945-12-15T01:46:48.417Z",
+    "age": 78
+  },
+  "registered": {
+    "date": "2015-12-17T08:17:42.009Z",
+    "age": 8
+  },
+  "phone": "(098) P28-9454",
+  "cell": "(096) X46-4676",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+  },
+  "nat": "UA"
+}
