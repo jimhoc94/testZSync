@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Andrijana",
+    "last": "Čabarkapa"
+  },
+  "location": {
+    "street": {
+      "number": 7700,
+      "name": "Čede Zlatanovića"
+    },
+    "city": "Bač",
+    "state": "West Bačka",
+    "country": "Serbia",
+    "postcode": 30386,
+    "coordinates": {
+      "latitude": "62.1367",
+      "longitude": "68.0218"
+    },
+    "timezone": {
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
+    }
+  },
+  "email": "andrijana.cabarkapa@example.com",
+  "login": {
+    "uuid": "0112c20f-3050-4b3f-8af2-674fb3fdd8e6",
+    "username": "blackkoala547",
+    "password": "whitney",
+    "salt": "atdQp7bO",
+    "md5": "261ffce64cef4091777cb97367e4b8a2",
+    "sha1": "4f053203940d1adb4b1f1c2b9d3d84804679ad3d",
+    "sha256": "2fe30995a10c81ec89b8c31f3dac320aaf31db61f8a10bbc399d081409857cbb"
+  },
+  "dob": {
+    "date": "1959-10-11T01:29:23.834Z",
+    "age": 64
+  },
+  "registered": {
+    "date": "2022-02-20T04:05:00.188Z",
+    "age": 1
+  },
+  "phone": "019-8858-364",
+  "cell": "063-4729-961",
+  "id": {
+    "name": "SID",
+    "value": "880977158"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+  },
+  "nat": "RS"
+}
