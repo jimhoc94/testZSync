@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "رهام",
+    "last": "صدر"
+  },
+  "location": {
+    "street": {
+      "number": 2849,
+      "name": "میدان استقلال"
+    },
+    "city": "ملارد",
+    "state": "آذربایجان شرقی",
+    "country": "Iran",
+    "postcode": 31461,
+    "coordinates": {
+      "latitude": "17.1230",
+      "longitude": "-174.5832"
+    },
+    "timezone": {
+      "offset": "-3:30",
+      "description": "Newfoundland"
+    }
+  },
+  "email": "rhm.sdr@example.com",
+  "login": {
+    "uuid": "6644ac03-381a-4e8a-8025-d80a40851382",
+    "username": "blackgoose850",
+    "password": "2727",
+    "salt": "lFeP6GPV",
+    "md5": "2635d863374cb45916fec2d7d5ac8f03",
+    "sha1": "acbd6f52a45cc287c5f9eaea1ec15885cf9db023",
+    "sha256": "a8ebdddf52d4fb41acfcf8c5e11a301962b189dff3f55d6e9cd3c34253f4350e"
+  },
+  "dob": {
+    "date": "1974-10-01T05:52:20.850Z",
+    "age": 49
+  },
+  "registered": {
+    "date": "2002-09-05T02:06:19.578Z",
+    "age": 21
+  },
+  "phone": "020-53025199",
+  "cell": "0980-674-3162",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+  },
+  "nat": "IR"
+}
