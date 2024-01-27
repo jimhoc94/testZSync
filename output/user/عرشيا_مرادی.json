@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "عرشيا",
+    "last": "مرادی"
+  },
+  "location": {
+    "street": {
+      "number": 602,
+      "name": "پیروزی"
+    },
+    "city": "بابل",
+    "state": "همدان",
+    "country": "Iran",
+    "postcode": 35261,
+    "coordinates": {
+      "latitude": "20.4136",
+      "longitude": "-137.7481"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "aarshy.mrdy@example.com",
+  "login": {
+    "uuid": "9940f3b4-66fd-4026-a4f8-5f3b54fc7475",
+    "username": "yellowlion432",
+    "password": "darrell",
+    "salt": "yx9Zcjx5",
+    "md5": "463cb54cfb80b0e9ebe9af075fb3db8d",
+    "sha1": "8ab715a7b51bce14e8bc3b3dac9c0ba79b8e7f40",
+    "sha256": "11bf4894ba1a0009c8af0ba840bfb5b198a94096d1fb5c953bee5775e16e4ccd"
+  },
+  "dob": {
+    "date": "1998-01-19T13:59:17.689Z",
+    "age": 26
+  },
+  "registered": {
+    "date": "2007-03-25T10:39:51.757Z",
+    "age": 16
+  },
+  "phone": "032-97424388",
+  "cell": "0907-458-7133",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+  },
+  "nat": "IR"
+}
