@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Draško",
+    "last": "Polić"
+  },
+  "location": {
+    "street": {
+      "number": 4764,
+      "name": "Đorđa Milojevića"
+    },
+    "city": "Bač",
+    "state": "Kosovska Mitrovica",
+    "country": "Serbia",
+    "postcode": 63148,
+    "coordinates": {
+      "latitude": "61.7794",
+      "longitude": "-54.9940"
+    },
+    "timezone": {
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+    }
+  },
+  "email": "drasko.polic@example.com",
+  "login": {
+    "uuid": "48e73049-a7e6-4afa-8e83-76f04dd208ae",
+    "username": "orangeduck536",
+    "password": "trey",
+    "salt": "OD5zN0PX",
+    "md5": "094474751b45a75f0c9efa372d63438e",
+    "sha1": "a9cb513bd9caedee16cb58c1621941827fb00c50",
+    "sha256": "3ce5d058032d8b3ea5b290a6d40aabb754840febaf84ad5c2af826119547e94b"
+  },
+  "dob": {
+    "date": "1969-05-25T19:08:37.555Z",
+    "age": 54
+  },
+  "registered": {
+    "date": "2021-10-27T20:11:44.615Z",
+    "age": 2
+  },
+  "phone": "018-8105-689",
+  "cell": "066-4874-484",
+  "id": {
+    "name": "SID",
+    "value": "918310252"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+  },
+  "nat": "RS"
+}

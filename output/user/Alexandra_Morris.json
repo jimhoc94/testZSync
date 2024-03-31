@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Alexandra",
+    "last": "Morris"
+  },
+  "location": {
+    "street": {
+      "number": 5905,
+      "name": "George Street"
+    },
+    "city": "Christchurch",
+    "state": "Wellington",
+    "country": "New Zealand",
+    "postcode": 86677,
+    "coordinates": {
+      "latitude": "49.3694",
+      "longitude": "104.2362"
+    },
+    "timezone": {
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
+    }
+  },
+  "email": "alexandra.morris@example.com",
+  "login": {
+    "uuid": "08f3941e-dbd1-4841-9f7f-fa9da7d2db82",
+    "username": "yellowwolf696",
+    "password": "hithere",
+    "salt": "RZeHtgh9",
+    "md5": "36d521b7899583ee147a03482b863f54",
+    "sha1": "da449437e0bde251cb5d0e0757aa44858ece67d3",
+    "sha256": "fcdb1bf0c107e9d2e0d68fdc7f6a2c1f57aae7da446af2ab1cbdedb49a450bde"
+  },
+  "dob": {
+    "date": "1978-06-06T07:03:31.802Z",
+    "age": 45
+  },
+  "registered": {
+    "date": "2019-03-07T13:16:15.436Z",
+    "age": 5
+  },
+  "phone": "(481)-875-1644",
+  "cell": "(471)-885-7400",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+  },
+  "nat": "NZ"
+}
